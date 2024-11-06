@@ -8,4 +8,4 @@ Este proyecto consiste en la fabricación de un automóvil autónomo que utiliza
 
 ![Imagen2](https://github.com/user-attachments/assets/6f0999ac-5096-4d2f-8d92-8f5bbe9dafde)
 
-![Uploading Captura de pantalla 2024-05-25 214302.png…]()
+![Redes](https://github.com/user-attachments/assets/b8b3fd57-4730-474f-9e55-0b9c319f3778)
